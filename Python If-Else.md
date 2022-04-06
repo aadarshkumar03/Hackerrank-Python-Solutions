@@ -1,0 +1,1 @@
+## Question:**Python If-Else:**![image](https://user-images.githubusercontent.com/96613300/161985543-7921adff-551c-46aa-8c0a-fe73f481f689.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/161985891-56dc1fd9-31b0-4b86-97bb-6e99e374c4f4.png)
