@@ -1,0 +1,1 @@
+## Question:**Arithmetic Operators**![image](https://user-images.githubusercontent.com/96613300/162221058-70b71945-22a1-4e41-ab7f-b9351022446b.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/162222072-5278beef-d3de-4a52-a497-14da428b8570.png)
