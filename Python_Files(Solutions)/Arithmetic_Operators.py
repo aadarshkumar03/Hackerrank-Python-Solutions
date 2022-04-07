@@ -1,3 +1,11 @@
+'''
+Title     : Arithmetic Operators
+Domain    : Python
+Author    : Aadarshkumar Madhukar Jadhav
+Created   : 07 April 2022
+Problem   : https://www.hackerrank.com/challenges/python-arithmetic-operators?
+'''
+
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
