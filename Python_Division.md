@@ -1,0 +1,1 @@
+## Question:**Python: Division**![image](https://user-images.githubusercontent.com/96613300/162225116-05f6d09f-4ff7-4a9a-80cf-06c54414a136.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/162225228-e288a18d-092d-4594-a786-530624b976f5.png)
