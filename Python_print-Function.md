@@ -1,0 +1,1 @@
+## Question:**print function**![image](https://user-images.githubusercontent.com/96613300/162672637-378e9293-901e-40e8-a1bf-fb9dd55a8e88.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/162672813-d35955ae-cad5-4203-9c7c-f0151bb5a867.png)
