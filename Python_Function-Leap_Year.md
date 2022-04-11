@@ -1,0 +1,1 @@
+## Question:**Write a function: Leap Year**![image](https://user-images.githubusercontent.com/96613300/162669110-a5c23321-4021-47eb-9561-9e07ccad003f.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/162669392-dadc8e04-cdde-4667-8fb4-5c6fd77600bd.png)
