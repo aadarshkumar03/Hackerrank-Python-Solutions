@@ -1,0 +1,1 @@
+## Solution:**Python - Mutations**![image](https://user-images.githubusercontent.com/96613300/162885265-49a18481-c039-4f39-9df0-59bc2ab2a69a.png)## Solution:![image](https://user-images.githubusercontent.com/96613300/162885371-f384c2c9-1bd0-412a-bed4-ff7fb51c918e.png)
